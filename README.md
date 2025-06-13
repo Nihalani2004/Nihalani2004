@@ -1,31 +1,53 @@
-<h1 align="center">Hi 👋, I'm Mayank</h1>
-<h3 align="center">A passionate frontend developer</h3>
+### Hi there, I'm Mayank 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nihalani2004&label=Profile%20views&color=0e75b6&style=flat" alt="nihalani2004" /> </p>
+Welcome to my GitHub profile!, I’m a Computer Science Engineering student currently in my third year, with a strong passion for full-stack development, freelancing, and building impactful digital solutions through code.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nihalani2004" alt="nihalani2004" /></a> </p>
+---
 
-- 🌱 I’m currently learning **Full stack web development**
+###  About Me:
+-  **CSE Student** | Enthusiastic about continuous learning and building innovative tech-driven solutions.
+-  **Full-Stack Developer** | Skilled in developing modern, responsive, and efficient web applications using technologies like HTML, CSS, JavaScript, React, Node.js, and more.
+-  **Hackathon Enthusiast** | Love working in fast-paced environments, solving real-world challenges with creative teamwork and rapid prototyping.
+-  **Freelancer** | Open to exciting collaborations and freelance opportunities across various domains.
 
-- 📫 How to reach me **mayanknihalani22@gmail.com**
+---
 
-- ⚡ Fun fact **I enjoy turning complex ideas into clean, functional interfaces!**
+###  Tech Stack:
+#### 💻 Languages & Frameworks:
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-%88CE02.svg?style=for-the-badge&logo=greensock&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mayanknihalani_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayanknihalani_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mayank-nihalani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank-nihalani" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+#### 🛠️ Tools & Platforms:
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihalani2004&show_icons=true&locale=en&layout=compact" alt="nihalani2004" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nihalani2004&show_icons=true&locale=en" alt="nihalani2004" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nihalani2004&" alt="nihalani2004" /></p>
+### 🌱 Currently Exploring:
+- Contributing to open-source projects.
+- Improving my problem-solving skills through **DSA**.
 
-<div align="center">
-  
- ![snake gif](https://github.com/Nihalani2004/Nihalani2004/blob/output/github-snake-dark.svg)
-</div>
+---
+
+
+### ❤️ GitHub Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nihalani2004&theme=aura_dark)</img> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihalani2004&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihalani2004&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact" height=195px></img></a></p>
+
+
+---
+
+### 🤝 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-nihalani-a05160263/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mayanknihalani_)
+
+
+💌 **Feel free to reach out for collaborations, freelance projects, or just a friendly tech chat!**
+
+![snake gif](https://github.com/Nihalani2004/Nihalani2004/blob/output/github-snake-dark.svg)
