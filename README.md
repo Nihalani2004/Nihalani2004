@@ -1,4 +1,4 @@
-### Hi there, I'm Mayank 👋
+### Hi there, I'm Mayank! 👋
 
 Welcome to my GitHub profile!, I’m a Computer Science Engineering student currently in my third year, with a strong passion for full-stack development, freelancing, and building impactful digital solutions through code.
 
@@ -6,9 +6,9 @@ Welcome to my GitHub profile!, I’m a Computer Science Engineering student curr
 
 ###  About Me:
 -  **CSE Student** | Enthusiastic about continuous learning and building innovative tech-driven solutions.
--  **Full-Stack Developer** | Skilled in developing modern, responsive, and efficient web applications using technologies like HTML, CSS, JavaScript, React, Node.js, and more.
--  **Hackathon Enthusiast** | Love working in fast-paced environments, solving real-world challenges with creative teamwork and rapid prototyping.
--  **Freelancer** | Open to exciting collaborations and freelance opportunities across various domains.
+-  **Full-Stack Developer** | Skilled in developing modern, responsive, and efficient web applications.
+-  **Hackathon Enthusiast** | Love fast-paced teamwork and turning ideas into prototypes.
+-  **Freelancer** | Open to diverse, meaningful projects and collaborations.
 
 ---
 
