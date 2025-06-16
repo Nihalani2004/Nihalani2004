@@ -48,6 +48,8 @@ Welcome to my GitHub profile!, I’m a Computer Science Engineering student curr
 ### 🤝 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-nihalani-a05160263/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mayanknihalani_)
+[![Linktree](https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Mayank_Nihalani)
+
 
 
 💌 **Feel free to reach out for collaborations, freelance projects, or just a friendly tech chat!**
