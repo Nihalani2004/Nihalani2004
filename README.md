@@ -38,6 +38,12 @@ Welcome to my GitHub profile!, I’m a Computer Science Engineering student curr
 
 ---
 
+### ❤️ GitHub Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nihalani2004&theme=aura_dark)</img> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihalani2004&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihalani2004&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact" height=195px></img></a></p>
+
+
+---
+
 
 ### 🤝 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-nihalani-a05160263/)
