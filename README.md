@@ -38,11 +38,11 @@ Welcome to my GitHub profile!, I’m a Computer Science Engineering student curr
 
 ---
 
-### ❤️ GitHub Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nihalani2004&theme=aura_dark)</img> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihalani2004&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihalani2004&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact" height=195px></img></a></p>
+<!--### ❤️ GitHub Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nihalani2004&theme=aura_dark)</img> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihalani2004&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihalani2004&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact" height=195px></img></a></p> -->
 
 
----
+<!------->
 
 
 ### 🤝 Connect with Me:
@@ -54,4 +54,4 @@ Welcome to my GitHub profile!, I’m a Computer Science Engineering student curr
 
 💌 **Feel free to reach out for collaborations, freelance projects, or just a friendly tech chat!**
 
-![snake gif](https://github.com/Nihalani2004/Nihalani2004/blob/output/github-snake-dark.svg)
+<!--![snake gif](https://github.com/Nihalani2004/Nihalani2004/blob/output/github-snake-dark.svg) -->
