@@ -1,6 +1,6 @@
 ### Hi there, I'm Mayank! 👋
 
-Welcome to my GitHub profile!, I’m a Computer Science Engineering student currently in my third year, with a strong passion for full-stack development, freelancing, and building impactful digital solutions through code.
+Welcome to my GitHub profile!, I’m a Computer Science Engineering student currently in my Final Year, with a strong passion for full-stack development, freelancing, and building impactful digital solutions through code.
 
 ---
 
