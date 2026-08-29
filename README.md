@@ -38,6 +38,61 @@ I'm a final-year Computer Science Engineering student based in Jaipur, India. I 
   <sub>Also working with Vite, Tailwind CSS, GSAP, Three.js, Socket.IO, REST APIs, JWT-based authentication, and GitHub Actions.</sub>
 </p>
 
+## 📈 Coding statistics
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2021%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.25%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub data**
+
+> 📦 395.6 kB used in GitHub storage  
+> 🏆 74 contributions in 2026  
+> 🚫 Not opted to hire  
+> 📜 19 public repositories  
+> 🔑 1 private repository
+
+**I'm a night owl 🦉**
+
+```text
+🌞 Morning                124 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+🌆 Daytime                954 commits         ███████░░░░░░░░░░░░░░░░░░   27.15 %
+🌃 Evening                1813 commits        █████████████░░░░░░░░░░░░   51.59 %
+🌙 Night                  623 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.73 %
+```
+
+**📅 Most productive on Thursday**
+
+```text
+Monday                   520 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 %
+Tuesday                  332 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 %
+Wednesday                322 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 %
+Thursday                 669 commits         █████░░░░░░░░░░░░░░░░░░░░   19.04 %
+Friday                   596 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 %
+Saturday                 559 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.91 %
+Sunday                   516 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 %
+```
+
+**📊 This week I spent my time on**
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages:
+No Activity Tracked This Week
+
+🔥 Editors:
+No Activity Tracked This Week
+
+🐱‍💻 Projects:
+No Activity Tracked This Week
+
+💻 Operating System:
+No Activity Tracked This Week
+```
+<!--END_SECTION:waka-->
+
 ## My engineering compass
 
 > I aim to build products people trust, systems teams can maintain, and interfaces people genuinely enjoy using.
