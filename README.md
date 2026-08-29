@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+Application+Enthusiast;Competitive+Programmer;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/mayank-nihalani-a05160263/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/Mayanknihalani_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://linktr.ee/Mayank_Nihalani"><img src="https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
