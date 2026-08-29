@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/mayank-nihalani-banner.png" alt="Abstract blue and violet developer banner" width="100%" />
-</p>
-
 <h1 align="center">Hi, I'm Mayank Nihalani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="waving hand" /></h1>
 
 <p align="center">
@@ -28,36 +24,28 @@ I'm a final-year Computer Science Engineering student based in Jaipur, India. I 
 - 🤝 Open to meaningful open-source collaborations, product work, and freelance opportunities.
 - 🌱 Sharpening data structures and algorithms alongside hands-on product engineering.
 
-## Selected work
-
-| Project | What I built | Core technologies |
-| :-- | :-- | :-- |
-| **[CareerPilot AI](https://github.com/Nihalani2004/CareerPilot-AI)** | A career-readiness workspace that turns résumés and job descriptions into explainable ATS insights, interview preparation, learning roadmaps, and tailored résumé PDFs. | React, Node.js, Express, MongoDB, Gemini, Puppeteer |
-| **[AdaptiveWeb](https://github.com/Nihalani2004/AdaptiveWeb)** | A privacy-aware browser extension that detects micro-behaviours and offers helpful, non-disruptive UI adaptations such as reading support, summaries, and grounded shortcuts. | JavaScript, Chrome Extension, Next.js, MongoDB, Gemini |
-| **[Sketchboard](https://github.com/Nihalani2004/Sketchboard)** | A local-first, hand-drawn diagramming application with canvas tools, grouping, snapping, undo/redo, and JSON/PNG export. | JavaScript, Vite, Konva, rough.js, Tailwind CSS |
-| **[Imagify AI SaaS](https://github.com/Nihalani2004/Imagify-AI-Saas)** | A credit-based image-generation SaaS with authentication, generation history, Redis caching and rate limiting, and Razorpay payments. | React, Node.js, Express, MongoDB, Redis |
-
 ## Engineering toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,flask,mongodb,redis,sqlite,git,github,postman&perline=14" alt="JavaScript, TypeScript, React, Next.js, Node.js, Express, Python, Flask, MongoDB, Redis, SQLite, Git, GitHub and Postman" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,java,html,css,react,nextjs,nodejs,express,python,flask,mongodb,redis,mysql,sqlite,tailwind,vite,threejs,git,github,postman&perline=11" alt="JavaScript, TypeScript, C++, Java, HTML, CSS, React, Next.js, Node.js, Express, Python, Flask, MongoDB, Redis, MySQL, SQLite, Tailwind CSS, Vite, Three.js, Git, GitHub and Postman" />
 </p>
 
 <p align="center">
   <sub>Also working with Vite, Tailwind CSS, GSAP, Three.js, Socket.IO, REST APIs, JWT-based authentication, and GitHub Actions.</sub>
 </p>
 
-## GitHub at a glance
+## My engineering compass
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nihalani2004&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=transparent" alt="Mayank's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihalani2004&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Mayank's most-used languages" />
-</p>
+> I aim to build products people trust, systems teams can maintain, and interfaces people genuinely enjoy using.
 
-## Beyond the code
+| Principle | What it means in practice |
+| :-- | :-- |
+| **Product-first thinking** | Start with the user’s real workflow, then turn it into a focused and useful experience. |
+| **Secure by default** | Treat authentication, data ownership, input validation, and sensible limits as core product features. |
+| **Performance with purpose** | Cache expensive work, keep interactions responsive, and avoid complexity that does not serve users. |
+| **Interfaces with empathy** | Make powerful functionality understandable through thoughtful states, motion, accessibility, and feedback. |
 
-I care about building software that earns trust: clear user flows, practical privacy decisions, predictable performance, and documentation that makes a project easier to use and extend.
-
+<!-- Contribution snake intentionally hidden for a cleaner profile.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nihalani2004/Nihalani2004/output/github-snake-dark.svg" />
@@ -65,6 +53,7 @@ I care about building software that earns trust: clear user flows, practical pri
     <img src="https://raw.githubusercontent.com/Nihalani2004/Nihalani2004/output/github-snake.svg" alt="GitHub contribution snake animation" />
   </picture>
 </p>
+-->
 
 <p align="center">
   <em>Have an idea worth building? Let's connect and make it real.</em>
