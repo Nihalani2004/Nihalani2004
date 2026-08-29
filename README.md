@@ -1,57 +1,71 @@
-### Hi there, I'm Mayank! 👋
+<p align="center">
+  <img src="./assets/mayank-nihalani-banner.png" alt="Abstract blue and violet developer banner" width="100%" />
+</p>
 
-Welcome to my GitHub profile!, I’m a Computer Science Engineering student currently in my Final Year, with a strong passion for full-stack development, freelancing, and building impactful digital solutions through code.
+<h1 align="center">Hi, I'm Mayank Nihalani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="waving hand" /></h1>
 
----
+<p align="center">
+  <strong>Full-Stack Developer &middot; AI Product Builder &middot; Backend-Focused Engineer</strong>
+</p>
 
-###  About Me:
--  **CSE Student** | Enthusiastic about continuous learning and building innovative tech-driven solutions.
--  **Full-Stack Developer** | Skilled in developing modern, responsive, and efficient web applications.
--  **Hackathon Enthusiast** | Love fast-paced teamwork and turning ideas into prototypes.
--  **Freelancer** | Open to diverse, meaningful projects and collaborations.
+<p align="center">
+  I build thoughtful, scalable web products that turn complex workflows into clear, useful experiences.
+</p>
 
----
-
-###  Tech Stack:
-#### 💻 Languages & Frameworks:
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-%88CE02.svg?style=for-the-badge&logo=greensock&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-#### 🛠️ Tools & Platforms:
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/mayank-nihalani-a05160263/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/Mayanknihalani_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://linktr.ee/Mayank_Nihalani"><img src="https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
+</p>
 
 ---
 
-### 🌱 Currently Exploring:
-- Contributing to open-source projects.
-- Improving my problem-solving skills through **DSA**.
+## About me
 
----
+I'm a final-year Computer Science Engineering student based in Jaipur, India. I enjoy designing full-stack applications where product thinking, resilient backend systems, and polished interfaces meet. My recent work focuses on AI-assisted tools, privacy-aware browser experiences, and developer-friendly web applications.
 
-<!--### ❤️ GitHub Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nihalani2004&theme=aura_dark)</img> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihalani2004&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihalani2004&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact" height=195px></img></a></p> -->
+- 🧠 Exploring applied AI, backend architecture, secure authentication, and performance-conscious product design.
+- 🤝 Open to meaningful open-source collaborations, product work, and freelance opportunities.
+- 🌱 Sharpening data structures and algorithms alongside hands-on product engineering.
 
+## Selected work
 
-<!------->
+| Project | What I built | Core technologies |
+| :-- | :-- | :-- |
+| **[CareerPilot AI](https://github.com/Nihalani2004/CareerPilot-AI)** | A career-readiness workspace that turns résumés and job descriptions into explainable ATS insights, interview preparation, learning roadmaps, and tailored résumé PDFs. | React, Node.js, Express, MongoDB, Gemini, Puppeteer |
+| **[AdaptiveWeb](https://github.com/Nihalani2004/AdaptiveWeb)** | A privacy-aware browser extension that detects micro-behaviours and offers helpful, non-disruptive UI adaptations such as reading support, summaries, and grounded shortcuts. | JavaScript, Chrome Extension, Next.js, MongoDB, Gemini |
+| **[Sketchboard](https://github.com/Nihalani2004/Sketchboard)** | A local-first, hand-drawn diagramming application with canvas tools, grouping, snapping, undo/redo, and JSON/PNG export. | JavaScript, Vite, Konva, rough.js, Tailwind CSS |
+| **[Imagify AI SaaS](https://github.com/Nihalani2004/Imagify-AI-Saas)** | A credit-based image-generation SaaS with authentication, generation history, Redis caching and rate limiting, and Razorpay payments. | React, Node.js, Express, MongoDB, Redis |
 
+## Engineering toolkit
 
-### 🤝 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-nihalani-a05160263/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mayanknihalani_)
-[![Linktree](https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Mayank_Nihalani)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,flask,mongodb,redis,sqlite,git,github,postman&perline=14" alt="JavaScript, TypeScript, React, Next.js, Node.js, Express, Python, Flask, MongoDB, Redis, SQLite, Git, GitHub and Postman" />
+</p>
 
+<p align="center">
+  <sub>Also working with Vite, Tailwind CSS, GSAP, Three.js, Socket.IO, REST APIs, JWT-based authentication, and GitHub Actions.</sub>
+</p>
 
+## GitHub at a glance
 
-💌 **Feel free to reach out for collaborations, freelance projects, or just a friendly tech chat!**
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nihalani2004&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=transparent" alt="Mayank's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihalani2004&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Mayank's most-used languages" />
+</p>
 
-<!--![snake gif](https://github.com/Nihalani2004/Nihalani2004/blob/output/github-snake-dark.svg) -->
+## Beyond the code
+
+I care about building software that earns trust: clear user flows, practical privacy decisions, predictable performance, and documentation that makes a project easier to use and extend.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nihalani2004/Nihalani2004/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nihalani2004/Nihalani2004/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Nihalani2004/Nihalani2004/output/github-snake.svg" alt="GitHub contribution snake animation" />
+  </picture>
+</p>
+
+<p align="center">
+  <em>Have an idea worth building? Let's connect and make it real.</em>
+</p>
