@@ -27,7 +27,7 @@ I'm a final-year Computer Science Engineering student based in Jaipur, India. I 
 ## Engineering toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,java,html,css,react,nextjs,nodejs,express,python,flask,mongodb,redis,mysql,sqlite,tailwind,vite,threejs,git,github,postman&perline=11" alt="JavaScript, TypeScript, C++, Java, HTML, CSS, React, Next.js, Node.js, Express, Python, Flask, MongoDB, Redis, MySQL, SQLite, Tailwind CSS, Vite, Three.js, Git, GitHub and Postman" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,html,css,react,nextjs,nodejs,express,python,flask,mongodb,redis,mysql,sqlite,tailwind,vite,threejs,docker,aws,supabase,linux,nginx,vercel,git,github,postman&perline=10" alt="JavaScript, TypeScript, C++, HTML, CSS, React, Next.js, Node.js, Express, Python, Flask, MongoDB, Redis, MySQL, SQLite, Tailwind CSS, Vite, Three.js, Docker, AWS, Supabase, Linux, Nginx, Vercel, Git, GitHub and Postman" />
 </p>
 
 <p align="center">
