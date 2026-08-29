@@ -48,10 +48,10 @@ I'm a final-year Computer Science Engineering student based in Jaipur, India. I 
 **🐱 My GitHub data**
 
 > 📦 395.6 kB used in GitHub storage  
-> 🏆 74 contributions in 2026  
-> 🚫 Not opted to hire  
+> 🏆 234 contributions in 2026  
+> 💼 Available for hire  
 > 📜 19 public repositories  
-> 🔑 1 private repository
+> 🔑 5 private repositories
 
 **I'm a night owl 🦉**
 
